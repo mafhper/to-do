@@ -1,0 +1,15 @@
+{
+  "name": "TO-DO",
+  "version": "1.0.0",
+  "description": "**Integrantes:**  Matheus Pereira,  Nome Completo 2,  Nome Completo 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: sem testes específicos\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
