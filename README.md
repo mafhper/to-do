@@ -1,7 +1,8 @@
 ## Mini Projeto — Controle de Tarefas (To-do list)
 **Integrantes:** 
-Nome Completo 1, 
+
 Matheus Pereira, 
+Paolla Alves e
 Yllana Christie
 
 ## Como rodar
