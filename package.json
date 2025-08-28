@@ -1,7 +1,7 @@
 {
   "name": "TO-DO",
   "version": "1.0.0",
-  "description": "**Integrantes:**  Matheus Pereira,  Nome Completo 2,  Nome Completo 3",
+  "description": "**Integrantes:** Nome Completo 1, Matheus Pereira, Yllana Christie",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: sem testes específicos\" && exit 1"
