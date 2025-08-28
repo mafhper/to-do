@@ -1,8 +1,8 @@
 ## Mini Projeto — Controle de Tarefas (To-do list)
 **Integrantes:** 
 Nome Completo 1, 
-Nome Completo 2, 
-Nome Completo 3
+Matheus Pereira, 
+Yllana Christie
 
 ## Como rodar
 1. Certifique-se de ter o Node.js e o npm instalados.
