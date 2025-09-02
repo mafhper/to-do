@@ -1,7 +1,6 @@
 ## Mini Projeto — Controle de Tarefas (To-do list)
 **Integrantes:** 
 
-Matheus Pereira, 
 Paolla Alves e
 Yllana Christie
 
